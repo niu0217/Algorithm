@@ -2,11 +2,11 @@
 
 ## 反转字符串
 
-[LeetCode344.cpp](https://github.com/niu0217/Documents/blob/main/Algorithm/String/LeetCode344.cpp)
++ LeetCode344.cpp
 
 ## 反转字符串II
 
-[LeetCode541.cpp](https://github.com/niu0217/Documents/blob/main/Algorithm/String/LeetCode541.cpp)
++ LeetCode541.cpp
 
 ## 替换数字
 
@@ -53,7 +53,7 @@ int main()
 
 ## 翻转字符串中的单词
 
-[LeetCode151.cpp](https://github.com/niu0217/Documents/blob/main/Algorithm/String/LeetCode151.cpp)
++ LeetCode151.cpp
 
 ## 右旋转字符串
 
@@ -129,8 +129,8 @@ int main() {
 
 ### 找出字符串中第一个匹配项的下标
 
-[LeetCode28.cpp](https://github.com/niu0217/Documents/blob/main/Algorithm/String/LeetCode28.cpp)
++ LeetCode28.cpp
 
 ### 重复的子字符串
 
-[LeetCode459.cpp](https://github.com/niu0217/Documents/blob/main/Algorithm/String/LeetCode459.cpp)
++ LeetCode459.cpp

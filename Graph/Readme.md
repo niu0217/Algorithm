@@ -39,11 +39,11 @@ void bfs(vector<vector<char>>& grid, vector<vector<bool>>& visited, int x, int y
 
 ### 所有可能的路径
 
-[LeetCode797.cpp](https://github.com/niu0217/Documents/blob/main/Algorithm/Graph/LeetCode797.cpp)
++ LeetCode797.cpp
 
 ### 岛屿数量
 
-[LeetCode200.cpp](https://github.com/niu0217/Documents/blob/main/Algorithm/Graph/LeetCode200.cpp)
++ LeetCode200.cpp
 
 ![图一](Readme.assets/20220726094200.png) 
 

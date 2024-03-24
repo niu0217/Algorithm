@@ -29,35 +29,35 @@ void backtracking(参数) {
 
 （1）组合
 
-[LeetCode77.cpp](https://github.com/niu0217/Documents/blob/main/Algorithm/BackTracking/LeetCode77.cpp) 
++ LeetCode77.cpp
 
 （2）电话号码的字母组合
 
-[LeetCode17.cpp](https://github.com/niu0217/Documents/blob/main/Algorithm/BackTracking/LeetCode17.cpp)
++ LeetCode17.cpp
 
 （3）组合总和
 
-[LeetCode39.cpp](https://github.com/niu0217/Documents/blob/main/Algorithm/BackTracking/LeetCode39.cpp)
++ LeetCode39.cpp
 
 （4）组合总和II
 
-[LeetCode40.cpp](https://github.com/niu0217/Documents/blob/main/Algorithm/BackTracking/LeetCode40.cpp)
++ LeetCode40.cpp
 
 （5）组合总和III
 
-[LeetCode216.cpp](https://github.com/niu0217/Documents/blob/main/Algorithm/BackTracking/LeetCode216.cpp)
++ LeetCode216.cpp
 
 ## 分割
 
 （1）分割回文串
 
-[LeetCode131.cpp](https://github.com/niu0217/Documents/blob/main/Algorithm/BackTracking/LeetCode131.cpp)
++ LeetCode131.cpp
 
 ![131.分割回文串](Readme.assets/131.分割回文串.jpg) 
 
 （2）复原IP地址
 
-[LeetCode93.cpp](https://github.com/niu0217/Documents/blob/main/Algorithm/BackTracking/LeetCode93.cpp)
++ LeetCode93.cpp
 
 ![IMG_2285](Readme.assets/IMG_2285.jpg) 
 
@@ -65,23 +65,23 @@ void backtracking(参数) {
 
 （1）子集
 
-[LeetCode78.cpp](https://github.com/niu0217/Documents/blob/main/Algorithm/BackTracking/LeetCode78.cpp)
++ LeetCode78.cpp
 
 （2）子集II
 
-[LeetCode90.cpp](https://github.com/niu0217/Documents/blob/main/Algorithm/BackTracking/LeetCode90.cpp)
++ LeetCode90.cpp
 
 ## 排列
 
 （1）全排列
 
-[LeetCode46.cpp](https://github.com/niu0217/Documents/blob/main/Algorithm/BackTracking/LeetCode46.cpp)
++ LeetCode46.cpp
 
 ![IMG_2286](Readme.assets/IMG_2286.jpg) 
 
 （2）全排列II
 
-[LeetCode47.cpp](https://github.com/niu0217/Documents/blob/main/Algorithm/BackTracking/LeetCode47.cpp)
++ LeetCode47.cpp
 
 ![47.全排列II1](Readme.assets/20201124201331223.png) 
 
@@ -89,13 +89,13 @@ void backtracking(参数) {
 
 （1）N皇后
 
-[LeetCode51.cpp](https://github.com/niu0217/Documents/blob/main/Algorithm/BackTracking/LeetCode51.cpp)
++ LeetCode51.cpp
 
 ![IMG_2287](Readme.assets/IMG_2287.jpg) 
 
 （2）解数独
 
-[LeetCode37.cpp](https://github.com/niu0217/Documents/blob/main/Algorithm/BackTracking/LeetCode37.cpp)
++ LeetCode37.cpp
 
 ![37.解数独](Readme.assets/2020111720451790-20230310131822254.png) 
 

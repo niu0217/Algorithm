@@ -131,6 +131,8 @@ int main() {
 
 + LeetCode28.cpp
 
+![IMG_2438](Readme.assets/IMG_2438.jpg) 
+
 ### 重复的子字符串
 
 + LeetCode459.cpp

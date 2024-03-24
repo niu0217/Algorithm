@@ -272,3 +272,26 @@ int main() {
 }
 ```
 
+## 6. 调整字符串大小
+
+```c++
+#include <iostream>
+#include <string>
+
+int main() {
+    std::string str = "Hello";
+
+    // 增大字符串的大小，用 '!' 填充空白部分
+    str.resize(10, '!');
+
+    // 缩小字符串的大小
+    str.resize(3);
+
+    std::cout << str << std::endl;  // 输出: Hel
+
+    return 0;
+}
+
+// Hel
+```
+

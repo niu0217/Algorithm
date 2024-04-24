@@ -19,6 +19,7 @@ public:
         }
         return isFind == true ? leftIndex : -1;
     }
+    
     int getLastPosition(vector<int>& nums, int target) {
         int leftIndex = 0;
         int rightIndex = nums.size() - 1;

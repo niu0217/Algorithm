@@ -63,5 +63,8 @@
   },
   "clang.cflags": [
     "-std=c11"
+  ],
+  "clang.cxxflags": [
+    "-std=c++11"
   ]
 }

@@ -60,5 +60,8 @@
   "editor.formatOnSave": true,
   "files.associations": {
     "vector": "cpp"
-  }
+  },
+  "clang.cflags": [
+    "-std=c11"
+  ]
 }

@@ -59,7 +59,8 @@
   "editor.tabSize": 2,
   "editor.formatOnSave": true,
   "files.associations": {
-    "vector": "cpp"
+    "vector": "cpp",
+    "iostream": "cpp"
   },
   "clang.cflags": [
     "-std=c11"

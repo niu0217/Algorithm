@@ -48,6 +48,50 @@ int getLeftCoverString(const string &s1, const string &s2, int k)
   return -1;
 }
 
+int getLeftCoverString_map(const string &s1, const string &s2, int k)
+{
+  int len1 = s1.size();
+  int len2 = s2.size();
+  unordered_map<char, int> mapS1;
+  unordered_map<char, int> mapWindows;
+  for (char ch : s1)
+  {
+    mapS1[ch]++;
+  }
+
+  int start = 0;
+  int end = 0;
+  while (end < len2)
+  {
+    mapWindows[s2[end]]++;
+    // 滑动窗口大小为len + k
+    if (end - start + 1 >= len1 + k)
+    {
+      bool flag = true;
+      for (int i = 0; i < len1; i++)
+      {
+        if (mapS1[s1[i]] > mapWindows[s1[i]])
+        {
+          flag = false;
+          break;
+        }
+      }
+      if (flag)
+      {
+        return start;
+      }
+      mapWindows[s2[start]]--;
+      if (mapWindows[s2[start]] == 0)
+      {
+        mapWindows.erase(s2[start]);
+      }
+      start++;
+    }
+    end++;
+  }
+  return -1;
+}
+
 int main()
 {
   string s1;
@@ -56,5 +100,5 @@ int main()
   cin >> s1 >> s2;
   cin >> k;
 
-  cout << getLeftCoverString(s1, s2, k) << endl;
+  cout << getLeftCoverString_map(s1, s2, k) << endl;
 }

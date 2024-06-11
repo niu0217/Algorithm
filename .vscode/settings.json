@@ -56,11 +56,14 @@
   "C_Cpp_Runner.showCompilationTime": false,
   "C_Cpp_Runner.useLinkTimeOptimization": false,
   "C_Cpp_Runner.msvcSecureNoWarnings": false,
+  "editor.detectIndentation": false,
   "editor.tabSize": 2,
   "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
   "files.associations": {
     "vector": "cpp",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "unordered_map": "cpp"
   },
   "clang.cflags": [
     "-std=c11"

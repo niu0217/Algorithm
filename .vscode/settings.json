@@ -63,7 +63,8 @@
   "files.associations": {
     "vector": "cpp",
     "iostream": "cpp",
-    "unordered_map": "cpp"
+    "unordered_map": "cpp",
+    "string": "cpp"
   },
   "clang.cflags": [
     "-std=c11"

@@ -67,5 +67,7 @@
   ],
   "clang.cxxflags": [
     "-std=c++11"
-  ]
+  ],
+  "code-runner.runInTerminal": true,
+  "code-runner.ignoreSelection": true
 }

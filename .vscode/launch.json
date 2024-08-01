@@ -1,6 +1,17 @@
 {
-  "version": "0.2.0",
   "configurations": [
+    {
+      "name": "(lldb) OD",
+      "type": "cppdbg",
+      "request": "launch",
+      "program": "${workspaceFolder}/OD/build/bin/OD7",
+      "args": [],
+      "stopAtEntry": false,
+      "cwd": "${workspaceFolder}/OD/build/bin/",
+      "environment": [],
+      "externalConsole": true,
+      "MIMode": "lldb"
+    },
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "lldb",

@@ -2,6 +2,8 @@
 
 ## [39. 组合总和](https://leetcode.cn/problems/combination-sum/)
 
+![39.组合总和](回溯算法Days2.assets/20201223170730367.png) 
+
 + 回溯
 
 ```c++
@@ -68,6 +70,8 @@ public:
 
 ## [40. 组合总和 II](https://leetcode.cn/problems/combination-sum-ii/)
 
+![img](回溯算法Days2.assets/20221021163812.png) 
+
 ```c++
 class Solution {
 public:
@@ -104,6 +108,8 @@ public:
 ```
 
 ## [131. 分割回文串](https://leetcode.cn/problems/palindrome-partitioning/)
+
+![131.分割回文串](回溯算法Days2.assets/131.分割回文串.jpg) 
 
 ```c++
 class Solution {

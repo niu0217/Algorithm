@@ -2,6 +2,8 @@
 
 ## [77. 组合](https://leetcode.cn/problems/combinations/)
 
+![77.组合](回溯算法Days1.assets/20201123195223940.png) 
+
 + 简单回溯：
 
 ```c++
@@ -53,6 +55,8 @@ public:
 ```
 
 ## [216. 组合总和 III](https://leetcode.cn/problems/combination-sum-iii/)
+
+![216.组合总和III](回溯算法Days1.assets/20201123195717975.png) 
 
 + 不带剪枝：
 
@@ -113,6 +117,8 @@ public:
 ```
 
 ## [17. 电话号码的字母组合](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)
+
+![17. 电话号码的字母组合](回溯算法Days1.assets/20201123200304469.png) 
 
 ```c++
 class Solution {

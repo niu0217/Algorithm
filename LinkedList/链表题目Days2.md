@@ -2,6 +2,14 @@
 
 ## [24. 两两交换链表中的节点](https://leetcode.cn/problems/swap-nodes-in-pairs/)
 
+初始时：
+
+![24.两两交换链表中的节点1](链表题目Days2.assets/24.两两交换链表中的节点1.png) 
+
+交换后：
+
+![24.两两交换链表中的节点2](链表题目Days2.assets/24.两两交换链表中的节点2.png) 
+
 ```c++
 /**
  * Definition for singly-linked list.

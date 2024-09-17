@@ -2,6 +2,8 @@
 
 ## [203. 移除链表元素](https://leetcode.cn/problems/remove-linked-list-elements/)
 
+![image-20240916101151346](链表题目Days1.assets/image-20240916101151346.png) 
+
 ```c++
 /**
  * Definition for singly-linked list.
@@ -128,6 +130,12 @@ private:
 ```
 
 ## [206. 反转链表](https://leetcode.cn/problems/reverse-linked-list/)
+
+![image-20240916101615271](链表题目Days1.assets/image-20240916101615271.png) 
+
+![image-20240916102355857](链表题目Days1.assets/image-20240916102355857.png) 
+
+![image-20240916102556754](链表题目Days1.assets/image-20240916102556754.png) 
 
 ```c++
 /**
